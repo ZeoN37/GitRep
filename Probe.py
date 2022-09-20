@@ -1,3 +1,4 @@
-print ('Hello World!')
-user_name = input ('Привет! Как тебя зовут!')
-print (f'Как дела{user_name}?')
+print('Hello World!')
+user_name = input('Привет! Как тебя зовут! ')
+print(f'Как дела {user_name}?')
+print(user_name)
