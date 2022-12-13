@@ -1,4 +1,4 @@
-
+#тест
 while True:
     number_1 = input('Bедите первое число: ')
     try:
@@ -50,9 +50,6 @@ while True:
             print("Неверное значение. Bедите операцию: ")
     except ValueError:
         continue
-
-
-#тест
 
 
 
